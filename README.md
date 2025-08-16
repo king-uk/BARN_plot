@@ -3,7 +3,6 @@
 ## Dependancy
 
  - Matplotlib
- - 
 ## Map Download and Modification
 
 ```bash
