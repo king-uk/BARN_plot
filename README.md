@@ -20,5 +20,5 @@ python3 npy_to_txt.py
 ## Usage
 
 ```bash
-python3 main
+python3 main.py
 ```
